@@ -7,6 +7,9 @@ import (
 
 var bigNum = 1000
 
+// Пробная версия
+// Пробуем еще раз
+
 func symbol() {
 	var sym int64
 	fmt.Println("Введите число и узнаете символ")
