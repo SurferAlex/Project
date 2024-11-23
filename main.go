@@ -10,6 +10,7 @@ var bigNum = 1000
 // Пробная версия
 // Пробуем еще раз
 // Еще одна правка
+// var c int = 1
 
 func symbol() {
 	var sym int64
