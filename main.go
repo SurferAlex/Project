@@ -7,9 +7,7 @@ import (
 
 var bigNum = 1000
 
-//Удаление комментариев
-
-//Переходим к следующему этапу
+//FINAL
 
 func symbol() {
 	var sym int64
