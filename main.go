@@ -7,7 +7,8 @@ import (
 
 var bigNum = 1000
 
-//FINAL
+// FINAL
+// FINAL2
 
 func symbol() {
 	var sym int64
